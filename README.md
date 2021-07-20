@@ -1,2 +1,2 @@
-# Temp_Sensor_Thermistor
+# Temp-Sensor-Thermistor
 A temperature sensor made with arduino using thermistor.
